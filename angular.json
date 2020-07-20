@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "cods"
+  "defaultProject": "cods",
+  "cli": {
+    "analytics": "36b70468-577b-4354-8b94-bd41efc91c5e"
+  }
 }
